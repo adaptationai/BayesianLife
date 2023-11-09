@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    willie:
+      email: willie@adaptation.io
+      name: Wille Prosek
+      password: $2b$12$W/ECJdQ88TSSx0yVdGL/B.7Bv2j8zBs.RKH/yyq4YZuIjivZuY13u
+    
+cookie:
+  expiry_days: 30
+  key: some_signature_key # Must be a string
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com
